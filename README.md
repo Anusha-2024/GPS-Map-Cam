@@ -35,3 +35,21 @@ npm run dev
 ```
 
 Open your browser at: http://localhost:5173
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 
+
+---
+
+## 📩 Contact
+
+Created by **Anusha**  
+📧 Gmail: **krianusha09@gmail.com**  
+
+---
+
+## License
+This project is licensed under the MIT License
